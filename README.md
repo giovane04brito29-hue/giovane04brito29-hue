@@ -1,7 +1,10 @@
 Olá, Me chamo Giovane!
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=giovane04brito29"/>
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovane04brito29-hue&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovane04brito29-hue&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovane04brito29-hue&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
+
+
+
 - 💻 Sou estudante de TI back-end e Python;
 - 🥇 Aqui compartilho meus novos aprendizados;
 - 📱  Me chame no meu e-mail: giovane04brito29@gmail.com;
