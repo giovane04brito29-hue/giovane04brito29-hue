@@ -1,7 +1,6 @@
 Olá, Me chamo Giovane!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigiovane04brito29-hueanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovane04brito29-hue&theme=dark&show_icons=true)
 - 💻 Sou estudante de TI back-end e Python;
 - 🥇 Aqui compartilho meus novos aprendizados;
 - 📱  Me chame no meu e-mail: giovane04brito29@gmail.com;
